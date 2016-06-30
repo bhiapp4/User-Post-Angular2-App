@@ -3,7 +3,7 @@
 To run the application, 
 
 1. Download the project
-2. Install Node-JS NPM in Windows/MAC
+2. Install Node-JS NPM on Windows/MAC
 3. To check if NPM is installed properly do npm -version from command line
 4. change your directory to the project directory
 5. run npm install
