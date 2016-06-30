@@ -8,6 +8,10 @@ To run the application,
 4. change your directory to the project directory
 5. run npm install
 6. Once npm install is succeded do npm start from the project directory
+6a) If npm start gives any typescript errors like below
+    node_modules/@angular/common/src/directives/ng_class.d.ts(72,35): error TS2304: Cannot find name 'Set'
+    then run sudo typings install dt~es6-shim --save --global(MAC)
+    run typings install dt~es6-shim --save --global(Windows)
 7. Access the app at http://localhost:3000
 
 
