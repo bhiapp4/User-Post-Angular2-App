@@ -7,7 +7,7 @@ To run the application,
 3. To check if NPM is installed properly do npm -version from command line
 4. change your directory to the project directory
 5. run npm install
-6. Once npm install is succeded do npm start
+6. Once npm install is succeded do npm start from the project directory
 7. Access the app at http://localhost:3000
 
 
